@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Rinaldi Oktarinanda, a seasoned full-stack developer with expertise in building websites using Laravel and WordPress.<br>Currently expanding my skillset by learning Go and Vue.js.<br>I'm eager to collaborate on web projects that leverage my skills in these technologies.
+I'm Rinaldi Oktarinanda, a seasoned full-stack developer with expertise in building websites using Laravel and WordPress.<br>During my university studies, I gained valuable experience in the field of Machine Learning<br><br>Currently expanding my skillset by learning Go and Vue.js.<br>I'm eager to collaborate on web projects that leverage my skills in these technologies.
 
 
 ## 🌐 Socials:
