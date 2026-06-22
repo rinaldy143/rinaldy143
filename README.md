@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Rinaldi Oktarinanda, a seasoned full-stack developer with expertise in building websites using Laravel and WordPress.<br>During my university studies, I gained valuable experience in the field of Machine Learning.<br>Currently expanding my skillset by learning Go and Vue.js.<br>I'm eager to collaborate on web projects that leverage my skills in these technologies.
+Backend-focused Fullstack Developer with 3+ years of experience building enterprise web applications, fleet management systems, transportation platforms, and subscription management solutions. Specialized in Laravel, REST API development, database optimization, Redis caching, and Keycloak-based Single Sign-On (SSO). Proven track record in reducing dashboard response times from 8 seconds to under 600 milliseconds through Materialized View implementation and delivering multiple concurrent projects in agile environments
 
 
 ## 🌐 Socials:
